@@ -11,7 +11,7 @@ authors = [
   { name = "Jack Huey", email = "jhhuey@icloud.com" }
 ]
 dependencies = [
-    "mergenthaler>=1.2.0"
+    "mergenthaler~=1.2"
 ]
 
 [tool.setuptools.package-data]
